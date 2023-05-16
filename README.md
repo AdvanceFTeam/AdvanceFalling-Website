@@ -10,10 +10,11 @@
 <h1 align="center">Website Preview</h1>
 
 <p align="center">
-  <a href="https://advancefalling.repl.co/" target="_blank">
+  <a href="https://advancefalling.repl.co/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Live%20Demo-AdvanceFalling%20Website-blue?style=for-the-badge&logo=google-chrome&logoColor=white">
   </a>
 </p>
+
 
 
 
