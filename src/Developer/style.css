@@ -1,0 +1,142 @@
+/* Set font size, background image, color, and font family for the page body */
+body {
+  font-size: 15pt;
+  background: url("https://thumbs.gfycat.com/AffectionateDesertedGoa-max-1mb.gif");
+  color: #2f3fbc;
+  font-family: 'Open Sans', sans-serif;
+  justify-content: center;
+}
+
+/* Set properties for the profile photo */
+#titelfoto {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  padding: 8px;
+  margin: auto;
+}
+
+/* Set properties for the title */
+#titelid {
+  margin-bottom: 20px;
+}
+
+/* Set properties for the secondary title */
+#titel2 {
+  text-align: center;
+  border: 3px solid none;
+  border-radius: 15px;
+  margin-bottom: 40px;
+}
+
+/* Set properties for the description */
+#desc {
+  margin: 10px;
+}
+
+/* Set properties for the home profile picture */
+#homepfp {
+  width: 80%;
+  height: 80%;
+  padding: 1px;
+  border: 3px solid;
+  border-radius: 25px;
+  background-color: black;
+}
+
+/* Set properties for the home profile picture border */
+#homepfpborder {
+  text-align: center;
+  border: 6px solid;
+  border-radius: 30px;
+  width: 50%;
+  padding: 5%;
+  margin: auto;
+  margin-bottom: 10px;
+  transition: background 0.5s, padding 0.5s;
+}
+
+/* Set hover properties for the home profile picture border */
+#homepfpborder:hover {
+  background: #130124;
+  padding: 7%;
+}
+
+/* Set properties for the Discord tag */
+#dctag {
+  color: ghostwhite;
+}
+
+/* Set properties for the tag */
+#tagg {
+  font-size: 40px;
+  font-weight: 600;
+  text-align: center;
+}
+
+/* Set properties for the top left section */
+#tl {
+  border: 2px solid;
+  border-radius: 15px;
+  background: url("https://media.discordapp.net/attachments/983502610294251543/983513495574302740/17161486.jpg");
+}
+
+/* Set properties for the text in the top left section */
+#tlS {
+  text-align: center;
+  color: white;
+}
+
+/* Set properties for the heading */
+#h55 {
+  color: whitesmoke;
+  text-align: center;
+}
+
+/* Set properties for the download button */
+#download {
+  background: black;
+  color: white;
+  border: 5px solid #0006c2;
+  padding: 20px;
+  text-decoration: none;
+  border-radius: 12px;
+  position: center;
+  width: 30px;
+  padding: 5px;
+}
+
+/* Set properties for the center logo */
+#cl {
+  border: 3px solid;
+  border-radius: 15px;
+  background: url("https://media.discordapp.net/attachments/983502610294251543/983675213554274356/ezgif.com-gif-maker.gif");
+  margin-bottom: 20px;
+}
+
+#cll {
+  text-align: center;
+  color: white;
+}
+
+#clll {
+  text-align: center;
+  color: #0107bc;
+}
+
+#tagg {
+  text-align: center;
+}
+
+#releasein {
+  color: white;
+}
+
+#countdown {
+  color: #000dc2;
+}
+
+#hrr {
+  border: 2px solid #0020c2;
+  border-radius: 15px;
+}
