@@ -20,14 +20,14 @@
 
 <table><tr><td valign="top" width="50%">
   
-![image](https://github.com/AdvanceFTeam/AdvanceFalling-Website/assets/101320329/c304f663-88f1-4e62-b378-c9afe9699277)
-
-![image](https://github.com/AdvanceFTeam/AdvanceFalling-Website/assets/101320329/2025d2bf-51d4-4894-9932-a0c14e65f292)
-
-![image](https://github.com/AdvanceFTeam/AdvanceFalling-Website/assets/101320329/aad48e7e-9c87-450b-b5e4-e96b3c55eb8d)
-
-![image](https://github.com/AdvanceFTeam/AdvanceFalling-Website/assets/101320329/671bc53d-df5b-44b4-a996-788b370b3ff5)
-</td><td valign="top" width="50%">
+![image](https://github.com/AdvanceFTeam/AdvanceFalling-Website/assets/101320329/b80bbd8b-6c82-48bd-832a-0078d1e7a005)
+  
+![image](https://github.com/AdvanceFTeam/AdvanceFalling-Website/assets/101320329/25996590-8e60-4c22-9b3b-79e2faa53655)
+  
+![image](https://github.com/AdvanceFTeam/AdvanceFalling-Website/assets/101320329/0276313c-e47b-47ae-a8c7-40b128ff0a67)
+  
+![image](https://github.com/AdvanceFTeam/AdvanceFalling-Website/assets/101320329/7e8f9b38-b189-4891-89d6-736fd0c6e12f)
+ </td><td valign="top" width="50%">
   
  <h1 align="center">Usage</h1> 
   
